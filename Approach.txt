@@ -1,0 +1,19 @@
+Approach:
+1. Data Read and cleaned 
+2. Data description created using various Histograms for overall & for each product
+3. Insights noted based on Visual graphs
+4. Detail Analysis based on following parameters for each Product
+--> Revenue Distribution
+-->  Product vs Age
+--> Product vs Income
+--> Product vs Miles
+--> Product vs Gender
+--> Product vs Marital Status
+--> Product vs Education
+--> Product vs Usage
+--> Product vs Fitness
+5. Marginal Probability of each case was plotted using Heatmap and Categories with highest marginal probability noted in insights.
+
+
+Link to pdf :
+https://drive.google.com/file/d/1OQ-IU3JIGQLnpaP_OGXcfYy9j72gXLXN/view?usp=sharing
